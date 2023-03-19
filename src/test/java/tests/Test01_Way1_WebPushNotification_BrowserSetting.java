@@ -17,7 +17,7 @@ public class Test01_Way1_WebPushNotification_BrowserSetting {
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("http://www.spicejet.com");
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		
 	}
 
